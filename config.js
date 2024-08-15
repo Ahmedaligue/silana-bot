@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
+['212658594530', 'AHMED ALIGUE', true],
 ['212605784394', 'silana', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
+ nomerbot: '218930304217',
  pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nameown: 'AHMED ALIGUD',
+ nomerown: '212658594530',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'BOT SENKU',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -30,15 +30,15 @@ global.info = {
 // Thumbnail 
 global.media = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
- did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
- rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
- registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
- confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
- akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
+ did: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ rules: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ thumbnail: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ thumb: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ logo: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ unReg: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ registrasi: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ confess: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+ akses: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg', 
  wel: 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4', // gif welcome 
  bye: 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4', // gif good bye
  sound: 'https://media.vocaroo.com/mp3/1awgSZYHXP3B' // untuk menu
@@ -46,9 +46,9 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://www.instagram.com/dev_senku_ishigami?igsh=OGQ5ZDc2ODk2ZA==',
+ sgh:  'https://github.com/Ahmedaligue',
+ sgc: 'https://chat.whatsapp.com/DKKRVApRJXo4wq3mRq2mjt'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
